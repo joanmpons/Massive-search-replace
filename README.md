@@ -1,2 +1,2 @@
 # Massive Search & Replace
-The intended purpose of this script is to anonimize or change the codes and descriptions of Board entities and cubes in a coherent way across a whole database. The summarized flow of the process is the following: the entities and cubes are extracted from Board, then tranformed with an R script according to predifined dictionaries and finally uploaded back into Board. Notice that you don't need to change the whole codes or descriptions, you can simply choose to anonimize specific words across all cubes and entities (e.g. Transform "Holistic" into "Company 1").
+El objetivo de este script es poder reemplazar información de forma masiva, automatizada y pudiendo aplicar la sustitución de valores a través de varios ficheros, bah cambiar.
