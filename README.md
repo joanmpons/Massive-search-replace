@@ -1,5 +1,5 @@
 # Massive Search & Replace
-El objetivo de este script es poder reemplazar información de forma masiva, automatizada y en múltiples ficheros a la vez.. tambien se puede ejecutar con un bat
+El objetivo de este script es poder reemplazar información de forma masiva, automatizada y en múltiples ficheros a la vez. Este proceso puede servir para reemplazar datos, anonimizar-los o aplicar traducciones. tambien se puede ejecutar con un bat
 
 -Edit the .bat file to ensure that the PATH points to the Program Files of the specific R version you have installed. Then, make sure you change directory ("cd") to your R working directory (WD).
 
