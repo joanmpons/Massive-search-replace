@@ -1,3 +1,4 @@
+#install.packages("stringr")
 library(stringr)
 
 #Create directories if necessary
