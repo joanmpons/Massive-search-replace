@@ -1,6 +1,6 @@
 @echo off
 C:
-PATH "C:\Program Files\R\R-4.3.1\bin\x64"
-cd C:\Users\JoanMiquelPons\OneDrive - Holistic Data Solutions S.L\Documentos
+PATH :: Add path to R install location on your computer
+cd :: Add path to your working directory
 START /wait Rscript AnonData.R
 
